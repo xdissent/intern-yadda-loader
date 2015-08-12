@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/xdissent/intern-yadda-loader/issues"
   },
-  "homepage": "https://github.com/xdissent/intern-yadda-loader#readme"
+  "homepage": "https://github.com/xdissent/intern-yadda-loader#readme",
+  "peerDependencies": {
+    "yadda": "^0.15.2"
+  }
 }
