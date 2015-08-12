@@ -1,0 +1,23 @@
+{
+  "name": "intern-yadda-loader",
+  "version": "0.1.0",
+  "description": "Yadda loader for Intern",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdissent/intern-yadda-loader.git"
+  },
+  "keywords": [
+    "yadda",
+    "intern"
+  ],
+  "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdissent/intern-yadda-loader/issues"
+  },
+  "homepage": "https://github.com/xdissent/intern-yadda-loader#readme"
+}
