@@ -11,6 +11,16 @@
 * Promise-based step definitions (or use the Intern [`this.async()`](https://theintern.github.io/intern/#test-object) api).
 * AMD syntax for better Intern integration.
 
+## Installation
+
+See the [Intern User Guide](https://theintern.github.io/intern/) for information on setting up an intern project. Then install `yadda` and `intern-yadda-loader`:
+
+```console
+$ npm install yadda intern-yadda-loader --save-dev
+```
+
+**NOTE:** Yadda is a [peer dependency](https://docs.npmjs.com/files/package.json#peerdependencies) of `intern-yadda-loader`.
+
 ## Configuration
 
 ```js
