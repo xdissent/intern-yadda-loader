@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/xdissent/intern-yadda-loader#readme",
   "peerDependencies": {
-    "yadda": "^0.15.2"
+    "yadda": "^0.16.1"
   }
 }
